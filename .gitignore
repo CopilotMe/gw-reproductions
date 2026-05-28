@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.ipynb_checkpoints/
+.DS_Store
+
+# Output written at runtime — pre-generated copies live in results/
+output/
+
+# Cached strain data downloaded by gwpy
+.cache/
+
+# Local venvs
+.venv/
+venv/
+miniforge3/

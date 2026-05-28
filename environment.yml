@@ -1,0 +1,16 @@
+name: gw
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pycbc
+  - gwpy
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - scipy
+  - h5py
+  - astropy
+  - pip
+  - pip:
+      - "setuptools<81"

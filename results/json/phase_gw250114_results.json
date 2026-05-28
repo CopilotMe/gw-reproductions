@@ -1,0 +1,28 @@
+{
+  "phase": "gw250114",
+  "window": {
+    "gps_start": 1420877841,
+    "duration": 600
+  },
+  "bank_size": 28,
+  "threshold": 5.5,
+  "known_events_in_window": {},
+  "h1_triggers": 31,
+  "l1_triggers": 66,
+  "n_coincident_clusters": 1,
+  "top_coincs": [
+    {
+      "gps_h1": 1420878141.2231445,
+      "gps_l1": 1420878141.2202148,
+      "dt_ms": 2.9296875,
+      "snr_h1": 50.72571914370942,
+      "snr_l1": 57.59600827174996,
+      "snr_network": 76.74893322702263,
+      "m1_h1": 45.0,
+      "m2_h1": 30.0,
+      "m1_l1": 45.0,
+      "m2_l1": 30.0,
+      "catalog_match": null
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "phase": "blind",
+  "window": {
+    "gps_start": 1264298116,
+    "duration": 3600
+  },
+  "bank_size": 45,
+  "threshold": 5.5,
+  "known_events_in_window": {},
+  "h1_triggers": 196,
+  "l1_triggers": 321,
+  "n_coincident_clusters": 0,
+  "top_coincs": []
+}

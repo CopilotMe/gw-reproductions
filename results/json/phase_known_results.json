@@ -1,0 +1,30 @@
+{
+  "phase": "known",
+  "window": {
+    "gps_start": 1264314316,
+    "duration": 3600
+  },
+  "bank_size": 45,
+  "threshold": 5.5,
+  "known_events_in_window": {
+    "GW200129_065458-v1": 1264316116.4
+  },
+  "h1_triggers": 942,
+  "l1_triggers": 2048,
+  "n_coincident_clusters": 1,
+  "top_coincs": [
+    {
+      "gps_h1": 1264316116.4267578,
+      "gps_l1": 1264316116.432129,
+      "dt_ms": -5.37109375,
+      "snr_h1": 14.480277364206799,
+      "snr_l1": 20.996835392697307,
+      "snr_network": 25.50579402905124,
+      "m1_h1": 35.0,
+      "m2_h1": 35.0,
+      "m1_l1": 35.0,
+      "m2_l1": 35.0,
+      "catalog_match": "GW200129_065458-v1"
+    }
+  ]
+}
